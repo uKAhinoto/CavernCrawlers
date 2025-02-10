@@ -1,0 +1,47 @@
+{
+    "Cueva": {
+        "name": "ALta Cueva Caverns",
+        "color-a": null,
+        "color-b": null
+    },
+    "East": {
+        "name": "Civilized Eastern Caverns",
+        "color-a": null,
+        "color-b": null
+    },
+    "Magma": {
+        "name": "Magma Caverns",
+        "color-a": null,
+        "color-b": null
+    },
+    "North": {
+        "name": "Northern Caverns",
+        "color-a": null,
+        "color-b": null
+    },
+    "Outland": {
+        "name": "The Outland Reach",
+        "color-a": null,
+        "color-b": null
+    },
+    "Shadow": {
+        "name": "The Shadow Mines",
+        "color-a": null,
+        "color-b": null
+    },
+    "Swamp": {
+        "name": "Deep Swamp Caverns",
+        "color-a": null,
+        "color-b": null
+    },
+    "Tropic": {
+        "name": "Tropical Caverns",
+        "color-a": null,
+        "color-b": null
+    },
+    "West": {
+        "name": "Wild Western Caverns",
+        "color-a": null,
+        "color-b": null
+    }
+}
