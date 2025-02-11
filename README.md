@@ -8,3 +8,4 @@ Cavern Crawlers is a Table Top Role Playing Game (TTRPG) made for Slugterra fans
 - Stats
 - Blasters & Tech
 - Map & Storyline
+- Misc.
