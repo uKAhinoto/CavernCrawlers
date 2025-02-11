@@ -1,47 +1,47 @@
 {
     "Cueva": {
         "name": "ALta Cueva Caverns",
-        "color-a": null,
-        "color-b": null
+        "color-a": [66, 108, 25],
+        "color-b": [118, 168, 71]
     },
     "East": {
         "name": "Civilized Eastern Caverns",
-        "color-a": null,
-        "color-b": null
+        "color-a": [26, 123, 81],
+        "color-b": [52, 172, 120]
     },
     "Magma": {
         "name": "Magma Caverns",
-        "color-a": null,
-        "color-b": null
+        "color-a": [97, 10, 10],
+        "color-b": [173, 63, 63]
     },
     "North": {
         "name": "Northern Caverns",
-        "color-a": null,
-        "color-b": null
+        "color-a": [25, 28, 72],
+        "color-b": [66, 112, 182]
     },
     "Outland": {
         "name": "The Outland Reach",
-        "color-a": null,
-        "color-b": null
+        "color-a": [198, 180, 10],
+        "color-b": [246, 232, 119]
     },
     "Shadow": {
         "name": "The Shadow Mines",
-        "color-a": null,
-        "color-b": null
+        "color-a": [51, 12, 58],
+        "color-b": [106, 89, 155]
     },
     "Swamp": {
         "name": "Deep Swamp Caverns",
-        "color-a": null,
-        "color-b": null
+        "color-a": [16, 66, 19],
+        "color-b": [81, 161, 100]
     },
     "Tropic": {
         "name": "Tropical Caverns",
-        "color-a": null,
-        "color-b": null
+        "color-a": [21, 82, 65],
+        "color-b": [66, 182, 168]
     },
     "West": {
         "name": "Wild Western Caverns",
-        "color-a": null,
-        "color-b": null
+        "color-a": [225, 158, 82],
+        "color-b": [184, 98, 0]
     }
 }
