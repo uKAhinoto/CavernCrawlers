@@ -30,7 +30,7 @@ They use a **D8** to determine their health increase each level. Starting health
 #### Reaction Time
 Fu Fighters have a middle reaction time, adding **+3** to their total reaction speed.
 #### Recommended Stats
-Recommended stats are **Wis** and **Dex**
+Recommended stats are **INT** and **CHA**
 #### Proficiencies
 
 ## Marksman
@@ -39,7 +39,7 @@ Marksman often wield a rifle type blaster due to their ability to make long rang
 Marksman's specialty skill is a range increase to their shot radius. 
 Their level up skills are as follows:
 1. Range increases by 500 meters for 2 turns. Resets after long rest
-2. Unlocks passive skill *Curved Sight*
+2. Unlocks active skill *Curved Sight*
 3. Can use *Pierce* skill up to 5 times per long rest.
 4. (Rifle upgrades) + skill *Target*
 5. (Increases range)  . Changes to reset at short rests.
@@ -55,8 +55,9 @@ They use a **D6** to determine their health increase each level. Starting health
 #### Reaction Time
 Marksmen have a slow reaction time, adding **+2** to their total reaction speed.
 #### Recommended Stats
-Recommended stats are **Int** and **Dex**
+Recommended stats are **INT** and **WIS**
 #### Proficiencies
+
 ## Siegemaster
 Siegemasters 
 ### Specialty & Level Skills
@@ -74,9 +75,81 @@ Their level up skills are as follows:
 ### Misc. Info
 This is miscellaneous info about the class, including things like health dice, reaction time, and other special info.
 #### Health Dice
-They use a **D12** to determine their health increase each level. Starting health is **10 + D12**.
+They use a **D12** to determine their health increase each level. Starting health is **12 + CON Modifier**.
 #### Reaction Time
 Siegemasters have the slowest reaction time, adding **+1** to their total reaction speed.
 #### Recommended Stats
-Recommended stats are **Con** and **Str**
+Recommended stats are **CON** and **STR**
+#### Proficiencies
+
+## Slinger
+Slingers
+### Specialty & Level Skills
+Slingers specialty skill is a strength increase that allows them to deal more damage. 
+Their level up skills are as follows:
+1. Allows you to add an extra d4 to your damage up to 3 times. Resets after long rest.
+3. 
+4. 
+5. Strength increases from d4 to d6. Able to use at most 6 times.
+6. 
+7. 
+8. 
+9. 
+10. Strength increases from d6 to d8. Changes to reset after short rest.
+### Misc. Info
+This is miscellaneous info about the class, including things like health dice, reaction time, and other special info.
+#### Health Dice
+They use a **D8** to determine their health increase each level. Starting health is **8 + CON Modifier**.
+#### Reaction Time
+Slingers have a medium reaction time, adding **+4** to their total reaction speed.
+#### Recommended Stats
+Recommended stats are **STR** and **WIS**
+#### Proficiencies
+
+## Slugger
+Sluggers
+### Specialty & Level Skills
+Sluggers specialty skill is (). 
+Their level up skills are as follows:
+1. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+### Misc. Info
+This is miscellaneous info about the class, including things like health dice, reaction time, and other special info.
+#### Health Dice
+They use a **D10** to determine their health increase each level. Starting health is **10 + CON Modifier**.
+#### Reaction Time
+Sluggers have a high reaction time, adding **+5** to their total reaction speed.
+#### Recommended Stats
+Recommended stats are **DEX** and **CON**
+#### Proficiencies
+
+## Quickdraw
+Quickdraw
+### Specialty & Level Skills
+Quickdraw's specialty skill is (). 
+Their level up skills are as follows:
+1. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+### Misc. Info
+This is miscellaneous info about the class, including things like health dice, reaction time, and other special info.
+#### Health Dice
+They use a **D6** to determine their health increase each level. Starting health is **6 + CON Modifier**.
+#### Reaction Time
+Quickdraws have the highest reaction time, adding **+6** to their total reaction speed.
+#### Recommended Stats
+Recommended stats are **DEX** and **CON**
 #### Proficiencies
