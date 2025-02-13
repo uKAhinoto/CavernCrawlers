@@ -109,17 +109,17 @@ Recommended stats are **STR** and **WIS**
 ## Slugger
 Sluggers
 ### Specialty & Level Skills
-Sluggers specialty skill is (). 
+Sluggers specialty skill is using their gauntlets to punch slugs and break through their velocimorph, sometimes even reflecting it in a different direction. 
 Their level up skills are as follows:
-1. 
+1. Can use their powered gauntlets to punch a slug that is flying at them. If user rolls a crit, slug flies back at the opponent. Otherwise it falls to the ground. Able to use twice every long rest.
 3. 
 4. 
-5. 
+5. Ability to punch slugs increases from twice every long rest to 4 times every long rest. Changes from a crit to reflect to a 17 and up.
 6. 
 7. 
 8. 
 9. 
-10. 
+10. Ability to punch slugs increases from twice every long rest to 6 times every long rest. Changes from 17 and up to reflect to higher than 10
 ### Misc. Info
 This is miscellaneous info about the class, including things like health dice, reaction time, and other special info.
 #### Health Dice
@@ -133,17 +133,17 @@ Recommended stats are **DEX** and **CON**
 ## Quickdraw
 Quickdraw
 ### Specialty & Level Skills
-Quickdraw's specialty skill is (). 
+Quickdraw's specialty skill is the ability to increase their speed and perception, granting them advantage on their attacks and disadvantage on the enemies. 
 Their level up skills are as follows:
-1. 
+1. Gain the ability to heighten their senses, allowing them to move faster. This allows them to have advantage on the next attack. Able to use twice every long rest.
 3. 
 4. 
-5. 
+5. Increases the ability to heighten their senses from 2 times to 3. They are now able to use it as a reaction to give the opponent a disadvantage in attacking.
 6. 
 7. 
 8. 
 9. 
-10. 
+10. Increases the ability to heighten their senses from 3 times to 4. Changes to resetting half after short rest.
 ### Misc. Info
 This is miscellaneous info about the class, including things like health dice, reaction time, and other special info.
 #### Health Dice
