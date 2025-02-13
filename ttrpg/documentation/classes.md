@@ -14,14 +14,14 @@ They are known for their knowledge and skill in fusion shots, and are capable of
 Fu Fighters specialty skill is their ability to change their slugs direction. 
 Their level up skills are as follows:
 1. Change slugs direction a number of times equivalent to level. Resets at long rest.
-2. 
+2. Gain passive skill *Partial Slug Speak*.
 3. Can use skill *Aura Sight* once every long rest.
-4. 
+4. Movement Speed increases by 5 due to your understanding of slug arts. + (staff upgrades)
 5. Can control 2 slugs at once. Redirection number split across both. Changes to reset at short rests.
-6. 
+6. *Partial Slug Speak* upgrades to *Slug Speak*.
 7. 
-8. 
-9. 
+8. [staff upgrades]()
+9. [smth to do with guardians]()
 10. Can control 4 slugs at once. Redirection number split across both
 ### Misc. Info
 This is miscellaneous info about the class, including things like health dice, reaction time, and other special info.
