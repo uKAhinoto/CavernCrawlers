@@ -5,22 +5,31 @@ This page discusses the various weapons available in Cavern Crawlers, and what c
 
 ### Gauntlets
 The main weapon of the **Slugger** class, this weapon allows you to punch and launch slugs, albiet at a shorter range than most.
-#### Damage
 #### Upgrades
+There are a few upgrades available for the Gauntlets, including:
+- Color/Decal Customizations: Basic upgrades that allow you to change color and look of your weapon.
+- Detail Customizations: Basic upgrades that give you slight 3D details that only provide for customization.
+- Rocket Jets:
+- Dual Shot: Grant you the ability to use fusion shots by shooting 2 slugs at once
+- Spiked Knuckles:
+- Grappling Hook:
 #### Restrictions
-
+- Limited to the Slugger Class
+- uhhhh
 ### Slugfu Staff
-This weapon can only be correctly utilized by Fu Fighters, enabling them easy access to control the slugs, as well as some melee combat if needed.
-#### Damage
+This weapon can only be correctly utilized by **Fu Fighters**, enabling them easy access to control the slugs, as well as some melee combat if needed.
 #### Upgrades
 #### Restrictions
 
 ### Pickaxe
-
+A basic melee weapon that can be found mainly in mines.
 #### Damage
+1d4
 #### Upgrades
+- No upgrades available.
 #### Restrictions
-
+- Melee range only.
+- Need at least 10 strength to properly use.
 ### Baton
 
 #### Damage
