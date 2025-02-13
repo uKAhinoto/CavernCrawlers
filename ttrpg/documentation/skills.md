@@ -3,7 +3,11 @@
 ### Stat Increases
 ### Resistances
 ### Specialty
-(diff attack types get advantages.com)
+#### Partial Slug Speak
+Able to automatically understand slug emotions and basic thoughts
+#### Slug Speak
+Able to automatically understand what slugs are saying to each other.
+[](diff attack types get advantages)
 <!--Need to add "", ""-->
 ## Active
 ### Sight Skills
