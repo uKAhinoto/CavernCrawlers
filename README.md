@@ -3,9 +3,9 @@ Cavern Crawlers is a Table Top Role Playing Game (TTRPG) made for Slugterra fans
 ## Sections
 - Slugs
 - Races
-- [Classes](classes.md)
+- [Classes](ttrpg/documentation/classes.md)
 - Backgrounds
-- Stats & [Skills](skills.md)
-- [Blasters](blasters.md) & Tech
+- Stats & [Skills](ttrpg/documentation/skills.md)
+- [Blasters](ttrpg/documentation/blasters.md) & Tech
 - Map & Storyline
 - Misc.
