@@ -26,7 +26,7 @@ Their level up skills are as follows:
 ### Misc. Info
 This is miscellaneous info about the class, including things like health dice, reaction time, and other special info.
 #### Health Dice
-They use a **D8** to determine their health increase each level. Starting health is **10 + D8**.
+They use a **D8** to determine their health increase each level. Starting health is **8 + CON Modifier**.
 #### Reaction Time
 Fu Fighters have a middle reaction time, adding **+3** to their total reaction speed.
 #### Recommended Stats
@@ -41,17 +41,17 @@ Their level up skills are as follows:
 1. Range increases by 500 meters for 2 turns. Resets after long rest
 2. Unlocks active skill *Curved Sight*
 3. Can use *Pierce* skill up to 5 times per long rest.
-4. (Rifle upgrades) + skill *Target*
-5. (Increases range)  . Changes to reset at short rests.
+4. [Rifle upgrades]() + skill *Target*
+5. [Increases range]()  . Changes to reset at short rests.
 6. Gain a detection radius of 45 meters. Opponents within that range have disadvantage on sneak attacks.
 7. (Unlocks Drone Snipe)
 8. Can use skill *Supersonic Shot* twice per long rest.
-9. (Rifle upgrades?)
-10. (Increases range)
+9. [Rifle upgrades?]()
+10. [Increases range]()
 ### Misc. Info
 This is miscellaneous info about the class, including things like health dice, reaction time, and other special info.
 #### Health Dice
-They use a **D6** to determine their health increase each level. Starting health is **10 + D6**.
+They use a **D6** to determine their health increase each level. Starting health is **6 + CON Modifier**.
 #### Reaction Time
 Marksmen have a slow reaction time, adding **+2** to their total reaction speed.
 #### Recommended Stats
@@ -64,6 +64,7 @@ Siegemasters
 Siegemasters specialty skill is the ability to activate a special EMP that stops slug launches. 
 Their level up skills are as follows:
 1. Gain an EMP launch range of 30 meters. Resets after every long rest
+2. 
 3. 
 4. 
 5. EMP launch range increases to 65 meters. 2 uses every long rest
@@ -88,6 +89,7 @@ Slingers
 Slingers specialty skill is a strength increase that allows them to deal more damage. 
 Their level up skills are as follows:
 1. Allows you to add an extra d4 to your damage up to 3 times. Resets after long rest.
+2. 
 3. 
 4. 
 5. Strength increases from d4 to d6. Able to use at most 6 times.
@@ -112,6 +114,7 @@ Sluggers
 Sluggers specialty skill is using their gauntlets to punch slugs and break through their velocimorph, sometimes even reflecting it in a different direction. 
 Their level up skills are as follows:
 1. Can use their powered gauntlets to punch a slug that is flying at them. If user rolls a crit, slug flies back at the opponent. Otherwise it falls to the ground. Able to use twice every long rest.
+2. 
 3. 
 4. 
 5. Ability to punch slugs increases from twice every long rest to 4 times every long rest. Changes from a crit to reflect to a 17 and up.
@@ -136,8 +139,9 @@ Quickdraw
 Quickdraw's specialty skill is the ability to increase their speed and perception, granting them advantage on their attacks and disadvantage on the enemies. 
 Their level up skills are as follows:
 1. Gain the ability to heighten their senses, allowing them to move faster. This allows them to have advantage on the next attack. Able to use twice every long rest.
+2. 
 3. 
-4. 
+4. Unlocks passive skill *Quick Hands*
 5. Increases the ability to heighten their senses from 2 times to 3. They are now able to use it as a reaction to give the opponent a disadvantage in attacking.
 6. 
 7. 
