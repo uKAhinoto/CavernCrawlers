@@ -28,9 +28,12 @@ A secretive and mysterious race, the Shadow Clan protect and guard the balance o
 ### Racial Features
 
 ## Elves
+Like the trolls, the Elves are a very prideful bunch that prefers to seclude themselves from the rest of Slugterra. They are deeply attuned to nature and often practice the art of slugfu.
 ### Racial Features
+Darkvision
 
 ## Darkbane
+
 ### Racial Features
 
 ## Arachnoids
