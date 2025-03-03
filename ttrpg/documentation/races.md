@@ -19,10 +19,12 @@ Molenoids key characteristics are often considered to be ignorant and stupid. De
 Immune to Stink Factor
 
 ## Amphibianoid
-
+Amphibianoids are a savage bunch, experts in the water and often end up being pirates due to this. Since they live and breathe in the water, they get a proficiency in reaction time while underwater.
 ### Racial Features
++2 RT underwater
 
 ## Shadow Clan
+A secretive and mysterious race, the Shadow Clan protect and guard the balance of Slugterra and advocate for the wellbeing  of slugs. They harbor deep mistrust for the other races and absolutely despise the Darkbane.
 ### Racial Features
 
 ## Elves
