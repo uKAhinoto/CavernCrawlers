@@ -11,8 +11,8 @@ This race is seen very little in the Caverns, as they are a very secluded race. 
 ## Cave Troll
 A large and genius race, Cave Trolls are an extremely prideful race. They are extremely good at mechanics and often boast to be the best, but their biggest weakness is their fear of water.
 ### Racial Features
--3 reaction time in water instead of -2
-
+- -3 reaction time in water instead of -2
+- Darkvision
 ## Molenoid
 Molenoids key characteristics are often considered to be ignorant and stupid. Despite that, they are some of the best tunnel navigators all across Slugterra, and are unaffected by the stink that some slugs produce.
 ### Racial Features
@@ -35,8 +35,8 @@ Darkvision
 ## Darkbane
 The Darkbane live in the greatest depths of Slugterra, known as the Deep Caverns. They almost resemble demons lookswise, and their main goal is to ghoul all of Slugterra by infecting the slugs. They despise the Shadow Clan for keeping them out.
 ### Racial Features
-Darkvision
-Ghoul Resistance
+- Darkvision
+- Ghoul Resistance
 
 ## Arachnoids
 Arachnoids are a peculiar race, known for their spiderlike appearance, they are capable of wielding up to four blasters, albiet clumsily. 
