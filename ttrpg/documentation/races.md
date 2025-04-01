@@ -33,8 +33,11 @@ Like the trolls, the Elves are a very prideful bunch that prefers to seclude the
 Darkvision
 
 ## Darkbane
-
+The Darkbane live in the greatest depths of Slugterra, known as the Deep Caverns. They almost resemble demons lookswise, and their main goal is to ghoul all of Slugterra by infecting the slugs. They despise the Shadow Clan for keeping them out.
 ### Racial Features
+Darkvision
+Ghoul Resistance
 
 ## Arachnoids
+Arachnoids are a peculiar race, known for their spiderlike appearance, they are capable of wielding up to four blasters, albiet clumsily. 
 ### Racial Features
