@@ -1,5 +1,5 @@
 # Races
-There are various races throughout the 99 Caverns, the playable ones are listed below. To see a more extensive description on [Features](ttrpg/documentation/features.md), [Language](ttrpg/documentation/languages.md), or [Reaction Time](ttrpg/documentation/RT.md), click the links. 
+There are various races throughout the 99 Caverns, the playable ones are listed below. To see a more extensive description on [Features](features.md), [Language](languages.md), or [Reaction Time](RT.md), click the links. 
 ## Human 
 The most basic and common race across the 99 Caverns, They have the most freedom in their chosen path, yet are often subject to torment by the other races, as they have no special skills.
 ### Racial Features
