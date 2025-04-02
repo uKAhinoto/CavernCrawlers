@@ -53,7 +53,7 @@ Amphibianoids are a savage bunch, experts in the water and often end up being pi
 A secretive and mysterious race, the Shadow Clan protect and guard the balance of Slugterra and advocate for the wellbeing  of slugs. They harbor deep mistrust for the other races and absolutely despise the Darkbane.
 ### Racial Features
 - Darkvision
-- Apprehensile Tail
+- Prehensile Tail
 - Built in Blaster
 ### Languages
 - Shadow Speech
