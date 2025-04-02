@@ -43,6 +43,7 @@ Amphibianoids are a savage bunch, experts in the water and often end up being pi
 ### Racial Features
 - Darkvision
 - Waterbreathing
+- Finlike Swimming
 ### Languages
 - Terrian
 - Phibish
