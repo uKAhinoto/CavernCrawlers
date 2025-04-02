@@ -1,5 +1,5 @@
 # Reaction Time
-Reaction Time is the mechanic that replaces initiative. Instead of a d20 for your turn in combat, it is instead decided by your [Class](ttrpg/documentation/classes.md), [Race](ttrpg/documentation/races.md), [Background](ttrpg/documentation/backgrounds.md), and [Dexterity Modifier](ttrpg/documentation/stats.md). Together they all add up to the final number, and that determines the turn order. Various situations can either add or subtract from the total score. For instance, If you don't have darkvision, you will lose reaction time in the dark.
+Reaction Time is the mechanic that replaces initiative. Instead of a d20 for your turn in combat, it is instead decided by your [Class](classes.md), [Race](races.md), [Background](backgrounds.md), and [Dexterity Modifier](stats.md). Together they all add up to the final number, and that determines the turn order. Various situations can either add or subtract from the total score. For instance, If you don't have darkvision, you will lose reaction time in the dark.
 ## Class Modifiers
 - Quick Draw: +6
 - Slugger: +5
