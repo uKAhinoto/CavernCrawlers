@@ -1,1 +1,23 @@
 # Reaction Time
+Reaction Time is the mechanic that replaces initiative. Instead of a d20 for your turn in combat, it is instead decided by your [Class](ttrpg/documentation/classes.md), [Race](ttrpg/documentation/races.md), Background, and Dexterity Modifier. Together they all add up to the final number, and that determines the turn order. Various situations can either add or subtract from the total score. For instance, If you don't have darkvision, you will lose reaction time in the dark.
+## Class Modifiers
+- Quick Draw: +6
+- Slugger: +5
+- Slinger: +4
+- Fu Fighter: +3
+- Marksman: +2
+- Siege Master: + 1
+## Race Modifiers
+- Human: +3
+- Reptile: +2
+- Cave Troll: +1 (Goes down to -3 in Water, including water disadvantage)
+- Molenoid: +0
+- Anphibianoid: +3 (Ups to +6 in Water)
+- Shadow Clan: +5
+- Elves: +3
+- Darkbane: +4
+- Arachenoids: +6
+## Background Modifiers
+
+## Dexterity Modifier
+Just your modifier from your DEX stat.
