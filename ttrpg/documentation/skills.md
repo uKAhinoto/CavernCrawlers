@@ -1,5 +1,7 @@
 # Player Skills
+Players have a variety of skills they are able to use, both Passive and Active. 
 ## Passive
+Passive skills are automatically activated and don't cost Ki.
 ### Stat Increases
 ### Resistances
 ### Specialty
@@ -10,6 +12,7 @@ Able to automatically understand what slugs are saying to each other.
 [](diff attack types get advantages)
 <!--Need to add "", ""-->
 ## Active
+Active skills need to be used in order to work and cost Ki.
 ### Sight Skills
 #### Aura Sight
 Allows the user to see if 2 slugs are able to do a fusion shot. If so, discovers new fusion shot. Gives disadvantage on attacks while active.
