@@ -56,6 +56,9 @@ A secretive and mysterious race, the Shadow Clan protect and guard the balance o
 - Darkvision
 - Prehensile Tail
 - Built in Blaster
+- Slug Speak
+- Gecko Climb
+- Doublast Vision
 ### Languages
 - Shadow Speech
 ### Reaction Time
