@@ -76,7 +76,7 @@ The Darkbane live in the greatest depths of Slugterra, known as the Deep Caverns
 - Ghoul Resistance
 ### Languages
 - Terrian
-- Darkish
+- Darkan
 ### Reaction Time
 - +4
 ## Arachnoids
