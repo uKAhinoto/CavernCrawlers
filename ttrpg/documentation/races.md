@@ -3,14 +3,14 @@ There are various races throughout the 99 Caverns, the playable ones are listed 
 ## Human 
 The most basic and common race across the 99 Caverns, They have the most freedom in their chosen path, yet are often subject to torment by the other races, as they have no special skills.
 ### Racial Features
-- 
+- Adaptable
 ### Languages
 - Terrian
 - One Language of Choice
 ### Reaction Time
 - +3
 ## Reptiles
-This race is seen very little in the Caverns, as they are a very secluded race. They are more common in the swamp and tropical regions, and are skilled in survival and hiding away from others.
+This race is seen very little in the Caverns, as they are a very secluded race. They are more common in the swamp and tropical regions, and are skilled in survival as well as hiding away from others.
 ### Racial Features
 - Darkvision
 ### Languages
@@ -19,7 +19,7 @@ This race is seen very little in the Caverns, as they are a very secluded race. 
 ### Reaction Time
 - +2
 ## Cave Troll
-A large and genius race, Cave Trolls are an extremely prideful race. They are extremely good at mechanics and often boast to be the best, but their biggest weakness is their fear of water.
+A large and genius race, Cave Trolls are an extremely prideful race. They are very good at mechanics and often boast to be the best, but their biggest weakness is their fear of water.
 ### Racial Features
 - Darkvision
 ### Languages
