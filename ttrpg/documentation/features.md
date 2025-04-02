@@ -14,3 +14,5 @@ Able to use your tail as a third arm, but you are unable to wield weapons with t
 Like Darkvision, except instead of detecting by sight, you detect by smell while in the dark. Can sharply perceive locations of objects up to 20 meters, and able to vaguely perceive locations of objects up to 40 meters. Covering your scent removes their ability to smell you for a set amount of turns.
 ## Stink Immunity
 While Stink Factor affects others, with this feature, stink doesn't affect you. The only exception to this is poisoning.
+## Water Breathing
+Gives you the ability to naturally breathe underwater.
