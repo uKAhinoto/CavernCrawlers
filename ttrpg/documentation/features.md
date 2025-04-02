@@ -4,8 +4,14 @@ Features are like passive skills unique to the races across Slugterra.
 This trait is unique to humans and allows them to slightly change and adapt depending on where they grew up. It gives the player more customization to make up for the lack of skill. Ultimately up to the DM how far this can take you.
 ## Built in Blaster
 The Shadow Clan have a special organ at the end of their tail that lets them launch out slugs at terrifying speeds. Unable to customize or use any fusion shots.
+## Clumsy Quadra Wield
+Allows you to wield four blasters at once with disadvantage rolls.
 ## Darkvision
 Darkvision is a special sense that allows a creature in 5e to see dim light as if it were bright light up to 20 meters, and to see in darkness as if it were dim light, up to 40 meters. It does not allow you to see in magical darkness.
+## Dual Wield
+Allows you to proficiently wield two blasters at once, otherwise very difficult coordination-wise.
+## Finlike Swimming
+This feature gives you the skill to swim underwater as easy as walking on land.
 ## Ghoul Resistance
 Ghouled slugs usually affect the user negatively when shot out, this feature gives you a certain amount of resistance to those effects, and even getting ghouled yourself becomes more difficult.
 ## Prehensile Tail
