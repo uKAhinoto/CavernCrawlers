@@ -18,6 +18,20 @@ Reaction Time is the mechanic that replaces initiative. Instead of a d20 for you
 - Darkbane: +4
 - Arachenoids: +6
 ## Background Modifiers
-
+- Slugslinger: +3
+- Mechanic: +1
+- Scout: +3
+- Performer: +1
+- Surface Dweller: +0
+- Civilian: +0
+- Miner: +2
+- Pirate: +2 (Proficiency in Water)
 ## Dexterity Modifier
 Just your modifier from your DEX stat.
+## Effects
+- -2 RT in Dark without Darkvision
+- -1 RT in Dark with Smell Perception or Tremor Sense
+- -2 RT in water unless proficient
+- +1 RT if you Sneak Attack
+- -1 RT if you are Sneak Attacked
+- If prone, you lose your RT until no longer prone.
