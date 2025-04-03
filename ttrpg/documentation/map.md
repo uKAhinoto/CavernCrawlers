@@ -73,7 +73,7 @@ The Shadow Mines are a mysterious and mythical set of caverns in the 99. They ar
 10. Lost Lakes Cavern
 11. Crystal Labyrinth Cavern
 ## Deep Swamp Caverns
-The Deep Swamp Caverns consists of many swampy caverns and toxic slugs.
+The Deep Swamp Caverns consists of many swampy caverns and toxic slugs. The Reptiles and Amphibians inhabit a large majority of this place.
 1. Dark Spores Cavern
 2. Cavern of Columns
 3. Deadweed Cavern
@@ -113,11 +113,11 @@ The Wild Western Caverns are the Western-most region of the 99. It's known to be
 10. Chasm Cavern
 11. Train Chase Cavern
 ## Various Caverns
-These are various singular caverns throughout The 99 Caverns.
+These are various singular caverns throughout The 99 Caverns. The slugs are different for every cavern.
 1. The Spiral Descent
-Valley of the Giants
-The Island Cavern
-Steelheart Cavern
-Hall of Illusions
-Obsidian Cavern
-Darklight Abyss
+2. Valley of the Giants
+3. The Island Cavern
+4. Steelheart Cavern
+5. Hall of Illusions
+6. Obsidian Cavern
+7. Darklight Abyss
